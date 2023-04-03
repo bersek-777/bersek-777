@@ -1,3 +1,3 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?bersek-777&color=dc143c)
+![](https://komarev.com/ghpvc/?username=bersek-777&color=blueviolet)
 - 📫 How to reach me: bersek#9650
