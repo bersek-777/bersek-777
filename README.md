@@ -14,3 +14,4 @@
 ![.net](https://img.shields.io/badge/.NET-black?style=flat-square&logo=.net&logoColor=blue)
 ![mysql](https://img.shields.io/badge/Mysql-black?style=flat-square&logo=mysql&logoColor=blue)
 ![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=blue)
+![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua&logoColor=blue)
