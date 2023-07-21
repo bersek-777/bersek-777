@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=bersek-777&color=blueviolet)
 
 ## 🚀 Technologies & Tools
-### Languages
+### Languages & Skills
 
 ![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
@@ -11,4 +11,5 @@
 ![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=blue)
 ![laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel&logoColor=blue)
 ![npm](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=blue)
-![.net](https://img.shields.io/badge/.net-black?style=flat-square&logo=.net&logoColor=blue)
+![.net](https://img.shields.io/badge/.NET-black?style=flat-square&logo=.net&logoColor=blue)
+![mysql](https://img.shields.io/badge/Mysql-black?style=flat-square&logo=mysql&logoColor=blue)
