@@ -9,3 +9,5 @@
 ![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
 ![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=blue)
 ![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=blue)
+![laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel&logoColor=blue)
+![npm](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=blue)
