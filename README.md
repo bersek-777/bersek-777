@@ -16,3 +16,4 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=blue)
 ![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua&logoColor=blue)
 ![composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=composer&logoColor=blue)
+![typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue)
