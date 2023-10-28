@@ -17,3 +17,7 @@
 ![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua&logoColor=blue)
 ![composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=composer&logoColor=blue)
 ![typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue)
+
+
+### Currently learning
+![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=blue)
