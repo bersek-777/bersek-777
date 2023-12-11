@@ -22,4 +22,5 @@
 ### Currently learning
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=blue)
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=bersek-777&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=bersek-777&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bersek-777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
