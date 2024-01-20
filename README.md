@@ -23,10 +23,5 @@
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=blue)
 
 ![](https://github-readme-stats.vercel.app/api?username=bersek-777&show_icons=true&theme=radical)
-<div align="center" width="50">
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/1000721482369994785)](https://discord.com/users/1000721482369994785)
-
-<hr>
-<div align="center" width="50">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bersek-777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
