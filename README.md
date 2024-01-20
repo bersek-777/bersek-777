@@ -13,15 +13,12 @@
 ![npm](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=blue)
 ![.net](https://img.shields.io/badge/.NET-black?style=flat-square&logo=.net&logoColor=blue)
 ![mysql](https://img.shields.io/badge/Mysql-black?style=flat-square&logo=mysql&logoColor=blue)
-![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=blue)
-![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua&logoColor=blue)
+![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua)
 ![composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=composer&logoColor=blue)
 ![typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue)
-
+![vue](https://img.shields.io/badge/Vue-black?style=flat-square&logo=vue.js)
 
 ### Currently learning
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=blue)
-
-![](https://github-readme-stats.vercel.app/api?username=bersek-777&show_icons=true&theme=radical)
-[![Discord Presence](https://lanyard.cnrad.dev/api/1000721482369994785)](https://discord.com/users/1000721482369994785)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bersek-777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
+![react](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
